@@ -1,0 +1,22 @@
+name: Update README with GitHub Account Info
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Insert GitHub Account Info into README
+        uses: kotorkovsciy/github-account-info-2-readme@v0.0.4
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          github_username: LongKot
+          target_file: README.md
