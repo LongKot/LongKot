@@ -1,6 +1,8 @@
 name: Update README with GitHub Account Info
 
 on:
+  schedule:
+    - cron: "0 4 * * *"
   push:
     branches:
       - main
