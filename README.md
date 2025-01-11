@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_LAST_REPO-->
-Latest Project: [LongKot/test](https://github.com/LongKot/test)
+Latest Project: [LongKot/LongKot](https://github.com/LongKot/LongKot)
 <!--END_LAST_REPO-->
 
 <details>
@@ -14,6 +14,7 @@ Latest Project: [LongKot/test](https://github.com/LongKot/test)
 | test | ❌ | [`#Git`](https://github.com/LongKot/test) | 0 | ![test last commit](https://img.shields.io/github/last-commit/LongKot/test?style=flat&label=last) |
 | ramus | ❌ | [`#Git`](https://github.com/LongKot/ramus) | 0 | ![ramus last commit](https://img.shields.io/github/last-commit/LongKot/ramus?style=flat&label=last) |
 | LongKot | ❌ | [`#Git`](https://github.com/LongKot/LongKot) | 0 | ![LongKot last commit](https://img.shields.io/github/last-commit/LongKot/LongKot?style=flat&label=last) |
+| csharp-intersection | ❌ | [`#Git`](https://github.com/LongKot/csharp-intersection) | 0 | ![csharp-intersection last commit](https://img.shields.io/github/last-commit/LongKot/csharp-intersection?style=flat&label=last) |
 <!--END_TABLE_REPOS-->
 
 </details>
