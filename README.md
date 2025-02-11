@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_LAST_REPO-->
-Latest Project: [LongKot/LongKot](https://github.com/LongKot/LongKot)
+Latest Project: [](https://github.com/)
 <!--END_LAST_REPO-->
 
 <details>
